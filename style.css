@@ -5,8 +5,8 @@
     --DarkRed: #F08080;
     --FireBrick: #FFA07A;
     --botao-ativo: #FF6347;
-    --botao-inativo: rgba((220,20,60));
-    --texto-fundo: rgba((128,0,0));
+    --botao-inativo: rgba(220,20,60);
+    --texto-fundo: rgba(128,0,0);
 }
 
 body {
